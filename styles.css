@@ -1,0 +1,36 @@
+._5z6o {
+	display: none !important;
+}
+
+._5qxm::after, ._5qxm::before {
+	background-color: none !important;
+	height: 0 !important;
+}
+
+._5z6m {
+	text-align: center;
+    align-items: normal !important;
+    bottom: auto !important;
+    display: block !important;
+    left: auto !important;
+    position: static !important;
+    right: auto !important;
+    top: auto !important;
+    padding: 0 12px 0 12px !important;
+    width: 100%;
+}
+
+._4a6n {
+	margin: 0 !important;
+	padding: 0 !important;
+    color: inherit !important;
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+    padding: 0 !important;
+}
+._5qxm._5qxn {
+	background: none !important;
+	background-image: none !important;
+	background-color: none !important;
+}
