@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Remove FaceBook Status Backgrounds",
+  "name": "Remove Facebook Status Backgrounds",
   "version": "0.1.0",
   "description": "The new Facebook status background/status-meme-ify feature is annoying as can be. This turns it off and let's you get back to Facebook without the vomit of circa 1999 color all over your feed.",
   "content_scripts": [{
